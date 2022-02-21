@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+.search{
+    width: 10%;
+}
+.s1{
+    width: 70%;
+    
+}
+
+.sort{
+    display: flex;
+    flex-direction: row;
+}
+.sortbtn{
+    width: 15%;
+}
+
+.lpd{
+    border: 1px solid black;
+    width: 80%;
+    margin: 20px;
+    padding: 10px;
+    text-align: left;
+}
+button{
+    cursor: pointer;
+}
